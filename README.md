@@ -1,9 +1,9 @@
 # TugasScrappingSerpAPI_0002
-Nama    : Imroatu Solicah
-NIM     : 20.01.53.0002
-Kelas   : A1
-Matkul  : Text Mining
-#-------------------------------------------------------------------------------------------
+- Nama    : Imroatu Solicah
+- NIM     : 20.01.53.0002
+- Kelas   : A1
+- Matkul  : Text Mining
+- #-------------------------------------------------------------------------------------------
 
 Melakukan scrapping data lokasi restoran KCF yang ada di kota Semarang menggunakan SerpAPI. 
 Dalam tugas tersebut terdapat beberapa Preprocessing, yaitu :
